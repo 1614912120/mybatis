@@ -7,6 +7,7 @@ import com.atguigu.mybatis.pojo.User;
 import com.atguigu.mybatis.utils.test1;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import com.sun.xml.internal.ws.wsdl.parser.MemberSubmissionAddressingWSDLParserExtension;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
@@ -32,5 +33,6 @@ public class test {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot-fix test!");
+        System.out.println();
     }
 }
