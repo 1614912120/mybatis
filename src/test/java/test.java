@@ -30,5 +30,6 @@ public class test {
         List<Emp> allEmp = mapper.getAllEmp();
        allEmp.forEach(Emp-> System.out.println(Emp));
         System.out.println("hello git4");
+        System.out.println("master test");
     }
 }
