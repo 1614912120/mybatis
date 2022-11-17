@@ -29,5 +29,6 @@ public class test {
         Page<Object> objects = PageHelper.startPage(1, 4);
         List<Emp> allEmp = mapper.getAllEmp();
        allEmp.forEach(Emp-> System.out.println(Emp));
+        System.out.println("hello git4");
     }
 }
